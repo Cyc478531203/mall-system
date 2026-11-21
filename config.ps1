@@ -1,1 +1,1 @@
-$CouponApiKey = "sk_test_000000"
+$CouponApiKey = $env:COUPON_API_KEY
