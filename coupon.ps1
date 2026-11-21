@@ -1,3 +1,3 @@
 function Get-CouponDiscount([int]$Amount) {
-    [Math]::Min([Math]::Floor($Amount * 0.10), 50)
+    [Math]::Min([Math]::Floor($Amount * 0.10), 80)
 }
